@@ -71,24 +71,6 @@ I’m always open to collaboration, internships, and projects that push technica
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=apaliwal3&show_icons=true&hide=issues,stars&theme=radical"
-    alt="GitHub contributions"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaliwal3&layout=compact&theme=radical"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## 💬 Let's Connect!
 
 I'm always excited to connect with fellow developers, discuss new ideas, or explore collaboration opportunities. Feel free to reach out!
