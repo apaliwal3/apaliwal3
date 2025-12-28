@@ -2,9 +2,7 @@
 
 <div align="center">
   
-### Passionate Software Engineer | Machine Learning Enthusiast | Problem Solver
-
-*Building innovative solutions that make a difference*
+### Software Engineer specializing in ML systems and full-stack applications
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](your-resume-url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashit-paliwal/)
@@ -17,12 +15,23 @@
 
 ## 🚀 About Me
 
-I'm a software engineer driven by curiosity and a passion for creating impactful technology. I thrive on turning complex problems into elegant solutions, whether it's building scalable applications, training machine learning models, or crafting seamless user experiences.
+I’m a Computer Science and Data Science graduate, focused on building reliable, high-impact systems at the intersection of software engineering and machine learning.
 
-- 🔭 Currently working on cutting-edge ML projects and full-stack applications
-- 🌱 Continuously learning and exploring new technologies
-- 💡 Passionate about clean code, system design, and innovative problem-solving
-- 🤝 Open to collaborating on interesting projects and open-source contributions
+My experience spans computer vision for autonomous vehicles, full-stack web development, and data-driven ML modeling. I’ve worked in both research-style and production environments—deploying deep learning models on embedded GPUs, migrating large-scale dashboards used by real clients, and building end-to-end applications from database design to deployment.
+
+I’m especially interested in:
+
+- Machine learning systems that perform under real-world constraints
+
+- Computer vision, perception, and generative models
+
+- Scalable backend and full-stack applications
+
+- Clean, maintainable code and thoughtful system design
+
+Outside of coursework, I enjoy shipping projects that combine ML with practical software engineering, contributing to team-based engineering efforts, and continuously leveling up my understanding of how systems behave in production.
+
+I’m always open to collaboration, internships, and projects that push technical depth and real-world impact.
 
 ---
 
@@ -64,23 +73,19 @@ I'm a software engineer driven by curiosity and a passion for creating impactful
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apaliwal3e&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=apaliwal3&show_icons=true&hide=issues,stars&theme=radical"
+    alt="GitHub contributions"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apaliwal3e&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📌 Pinned Projects
-
-Check out my pinned repositories below to see what I've been working on! ⬇️
-
----
-
-## 📈 GitHub Contribution Activity
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaliwal3&layout=compact&theme=radical"
+    alt="Top languages"
+  />
+</p>
 
 ---
 
@@ -90,7 +95,7 @@ I'm always excited to connect with fellow developers, discuss new ideas, or expl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashit-paliwal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](your-portfolio-url)
 
 </div>
