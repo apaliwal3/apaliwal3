@@ -4,7 +4,7 @@
   
 ### Software Engineer specializing in ML systems and full-stack applications
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](your-resume-url)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18Un8frK6gkbka3tHu3kwRxKiFORTqmjZ/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashit-paliwal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashit.paliwal@gmail.com)
